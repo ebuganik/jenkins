@@ -3,7 +3,9 @@
 #include "printer.h"
 
 void main_body() {
-	print_message("Hello cruel world :( ");
+	print_message("-----------------------------------------------\n");
+	print_message("Hello cruel world :(\n");
+	print_message("-----------------------------------------------\n");
 }
 
 void main()
