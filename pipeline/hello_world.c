@@ -8,8 +8,9 @@ void main_body() {
 	print_message("-----------------------------------------------\n");
 }
 
-void main()
+int main()
 {
 	main_body();
+	return 0;
 }
 
